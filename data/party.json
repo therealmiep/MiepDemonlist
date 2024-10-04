@@ -1,1 +1,12 @@
-
+{
+    "id": 86979563,
+    "name": "Party All Night Long",
+    "author": "therealMIEP",
+    "creators": ["therealMIEP"],
+    "verifier": "therealMIEP",
+    "verification": "noip",
+    "percentToQualify": 56,
+    "password": "i dunno",
+    "records": [
+    ]
+}
