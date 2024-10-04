@@ -8,11 +8,17 @@
     "percentToQualify": "52",
     "password": "Free To Copy",
     "records": [
-{
+        {
             "user": "envyixy",
             "link": "https://youtu.be/2QUkSq8NcVU?si=KuYmuM58JChRLM3V",
             "percent": 100,
             "hz": 480
- }
+        },
+        {
+            "user": "JaydenvdH",
+            "link": "https://youtu.be/gz0cRDr6NI8?si=2N82I7d--g8nJ6rq",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
